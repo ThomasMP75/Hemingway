@@ -25,7 +25,7 @@ CITATION
 If you use this work in academic research, please cite:
 
 Thomas Oriol (2025). "Hemingway and the Grammar of Motion: A Stylometric Analysis of Directional
-Adpositions in 1920s American Literature." GitHub repository: [repository URL]
+Adpositions in 1920s American Literature." GitHub repository: https://github.com/ThomasMP75/Hemingway
 
 BibTeX:
 @misc{oriol2025hemingway,
@@ -33,5 +33,5 @@ BibTeX:
   title = {Hemingway and the Grammar of Motion: A Stylometric Analysis of Directional Adpositions},
   year = {2025},
   publisher = {GitHub},
-  url = {[repository URL]}
+  url = {https://github.com/ThomasMP75/Hemingway}
 }
