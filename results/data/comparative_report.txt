@@ -1,0 +1,61 @@
+================================================================================
+RAPPORT COMPARATIF DES ADPOSITIONS DIRECTIONNELLES
+================================================================================
+
+1. FRÉQUENCES MOYENNES PAR AUTEUR (pour 10,000 mots)
+--------------------------------------------------------------------------------
+  hemingway      :  53.09
+  Sherwood Anderson:  44.85
+  F. Scott Fitzgerald:  35.16
+  John Dos Passos:  35.15
+  Unknown Author :  20.94
+
+2. ADPOSITION LA PLUS FRÉQUENTE PAR AUTEUR
+--------------------------------------------------------------------------------
+  F. Scott Fitzgerald: around     (11.22)
+  John Dos Passos: through    (19.06)
+  Sherwood Anderson: through    (19.56)
+  Unknown Author : through    (8.51)
+  hemingway      : through    (18.66)
+
+3. TRAITS DISTINCTIFS (fréquence significativement supérieure)
+--------------------------------------------------------------------------------
+
+  F. SCOTT FITZGERALD:
+    - around    : 11.22 (×2.82 vs autres)
+
+  SHERWOOD ANDERSON:
+    - along     : 15.32 (×2.13 vs autres)
+    - past      :  2.99 (×1.51 vs autres)
+
+  HEMINGWAY:
+    - across    :  7.66 (×2.07 vs autres)
+    - along     : 13.20 (×1.71 vs autres)
+    - around    : 10.30 (×2.45 vs autres)
+
+4. DIFFÉRENCES PAR RAPPORT À HEMINGWAY
+--------------------------------------------------------------------------------
+
+  F. SCOTT FITZGERALD:
+    Adpositions plus fréquentes:
+      - around    : +0.92 (11.22 vs 10.30)
+      - beyond    : +0.22 (1.82 vs 1.60)
+      - past      : +0.15 (1.82 vs 1.67)
+
+  JOHN DOS PASSOS:
+    Adpositions plus fréquentes:
+      - past      : +1.04 (2.71 vs 1.67)
+      - through   : +0.40 (19.06 vs 18.66)
+
+  SHERWOOD ANDERSON:
+    Adpositions plus fréquentes:
+      - along     : +2.12 (15.32 vs 13.20)
+      - past      : +1.32 (2.99 vs 1.67)
+      - through   : +0.90 (19.56 vs 18.66)
+
+  UNKNOWN AUTHOR:
+    Adpositions plus fréquentes:
+      - beyond    : +0.11 (1.71 vs 1.60)
+      - past      : +0.04 (1.71 vs 1.67)
+
+================================================================================
